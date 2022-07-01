@@ -1,7 +1,8 @@
 # Joke-Teller
 This a spin on an earlier project I did with the jokes API, but now I've added a nice little robot gif and I've used a text-to-speech api. When you click the button a nice robot tells you a (sometimes) funny joke.
 
-![joketn](https://user-images.githubusercontent.com/60330865/176945718-d713a6c7-9963-41f4-a1f7-64328a7a8629.png)
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/60330865/176948727-d52270d4-b8ff-475c-8d5a-186460fc4938.gif)
 
 
 Tech used: HTML, CSS, JavaScript, Jokes API and Text-To-Speech
